@@ -1,0 +1,11 @@
+.bg{
+    color: blue;
+    background-color: aquamarine;
+}
+.p{
+    color: white;
+    padding-left: 20;
+    background-color: bisque;
+    margin: 3rem;
+    font-size: 40px;
+}
